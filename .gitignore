@@ -1,0 +1,23 @@
+
+#BUILD OUTPUT DIRECTORIES
+Debug/
+Release/
+
+#IDE SETTINGS
+.settings/
+
+#TOOLCHAIN ARTIFACTS
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+*.lst
+*.o
+*.d
+*.a
+*.su
+#DEBUGGER CONFIGURATIONS AND LAUNCH
+*.launch
+*.log
+
